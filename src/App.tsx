@@ -1,6 +1,7 @@
 import Header from './component/Header'
 import Footer from './component/Footer'
-import Para from './component/Para'
+import Para from './component/Paragraph'
+import Smallpara from './component/Smallpara'
 import './App.css'
 
 function App() {
@@ -12,7 +13,7 @@ function App() {
       <div className="App">
         <h1>Welcome Gupio</h1>
         <Para/>
-        <Para2/>
+        <Smallpara/>
       </div>
       <Footer />
     </>
