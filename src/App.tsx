@@ -1,5 +1,6 @@
 import Header from './component/Header'
 import Footer from './component/Footer'
+import Para from './component/para'
 import './App.css'
 
 function App() {
@@ -9,7 +10,8 @@ function App() {
     <>
       <Header />
       <div className="App">
-        <h1>Hello, World!</h1>
+        <h1>Welcome to Gupio</h1>
+        <Para/>
       </div>
       <Footer />
     </>

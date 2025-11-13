@@ -1,4 +1,4 @@
 import "../App.css"
 export default function Footer() {
-  return <h1 className="header">Header</h1>;
+  return <h1 className="footer">Footer</h1>;
 }
