@@ -13,7 +13,7 @@ function App() {
       <div className="App">
         <h1>Welcome Gupio</h1>
         <Para/>
-        <Smallpara/>
+        <Para2/>
       </div>
       <Footer />
     </>
