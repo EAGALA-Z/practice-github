@@ -1,7 +1,6 @@
 import Header from './component/Header'
 import Footer from './component/Footer'
-import Para from './component/Smallpara'
-import Para2 from './component/Paragraph'
+import Para from './component/Para'
 import './App.css'
 
 function App() {
