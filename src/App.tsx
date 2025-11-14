@@ -10,7 +10,7 @@ function App() {
     <>
       <Header />
       <div className="App">
-        <h1>Welcome Gupio</h1>
+        <h1>Welcome TO The Gupio</h1>
         <Para/>
       </div>
       <Footer />
